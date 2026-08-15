@@ -1,0 +1,7 @@
+[92mgripper_right_controller[0m joint_trajectory_controller/JointTrajectoryController  [92mactive[0m
+[92mjoint_state_broadcaster [0m joint_state_broadcaster/JointStateBroadcaster          [92mactive[0m
+[92mgripper_left_controller [0m joint_trajectory_controller/JointTrajectoryController  [92mactive[0m
+[92marm_left_controller     [0m joint_trajectory_controller/JointTrajectoryController  [92mactive[0m
+[92marm_right_controller    [0m joint_trajectory_controller/JointTrajectoryController  [92mactive[0m
+[92mtorso_controller        [0m joint_trajectory_controller/JointTrajectoryController  [92mactive[0m
+[92mhead_controller         [0m joint_trajectory_controller/JointTrajectoryController  [92mactive[0m
