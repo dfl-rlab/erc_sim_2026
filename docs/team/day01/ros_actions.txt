@@ -1,0 +1,6 @@
+/arm_left_controller/follow_joint_trajectory [control_msgs/action/FollowJointTrajectory]
+/arm_right_controller/follow_joint_trajectory [control_msgs/action/FollowJointTrajectory]
+/gripper_left_controller/follow_joint_trajectory [control_msgs/action/FollowJointTrajectory]
+/gripper_right_controller/follow_joint_trajectory [control_msgs/action/FollowJointTrajectory]
+/head_controller/follow_joint_trajectory [control_msgs/action/FollowJointTrajectory]
+/torso_controller/follow_joint_trajectory [control_msgs/action/FollowJointTrajectory]
