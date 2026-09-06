@@ -89,8 +89,8 @@ All joint controllers use `joint_trajectory_controller/JointTrajectoryController
 |---|---|---|
 | `arm_left_controller` | `/arm_left_controller/joint_trajectory` | `arm_left_1_joint` .. `arm_left_7_joint` |
 | `arm_right_controller` | `/arm_right_controller/joint_trajectory` | `arm_right_1_joint` .. `arm_right_7_joint` |
-| `gripper_left_controller_raw` | `/gripper_left_controller_raw/joint_trajectory` | `gripper_left_finger_joint` |
-| `gripper_right_controller_raw` | `/gripper_right_controller_raw/joint_trajectory` | `gripper_right_finger_joint` |
+| `gripper_left_controller` | `/gripper_left_controller/joint_trajectory` | `gripper_left_finger_joint` |
+| `gripper_right_controller` | `/gripper_right_controller/joint_trajectory` | `gripper_right_finger_joint` |
 | `head_controller` | `/head_controller/joint_trajectory` | `head_1_joint`, `head_2_joint` |
 | `torso_controller` | `/torso_controller/joint_trajectory` | `torso_lift_joint` |
 | `joint_state_broadcaster` | `/joint_states` | All joints (read-only) |
