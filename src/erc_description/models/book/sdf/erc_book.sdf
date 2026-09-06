@@ -20,7 +20,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <box>
-            <size>0.25 0.03 0.16</size>
+            <size>0.25 0.02 0.16</size>
           </box>
         </geometry>
         <material>
@@ -35,7 +35,7 @@
 
         <geometry>
           <box>
-            <size>0.25 0.03 0.16</size>
+            <size>0.25 0.02 0.16</size>
           </box>
         </geometry>
         <!-- Explicit friction so books sit on the shelf without sliding and the
@@ -43,8 +43,8 @@
         <surface>
           <friction>
             <ode>
-              <mu>5.0</mu>
-              <mu2>5.0</mu2>
+              <mu>10.0</mu>
+              <mu2>10.0</mu2>
             </ode>
           </friction>
           <contact>
