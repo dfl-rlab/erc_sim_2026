@@ -354,7 +354,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/base/base_antenna_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/base/base_antenna_link.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.75294 0.75294 0.75294 1"/>
@@ -363,7 +363,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/base/base_antenna_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/base/base_antenna_link.stl"/>
       </geometry>
     </collision>
   </link>
@@ -385,7 +385,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/base/base_antenna_link_mirror.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/base/base_antenna_link_reflected.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.75294 0.75294 0.75294 1"/>
@@ -394,7 +394,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/base/base_antenna_link_mirror.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/base/base_antenna_link_reflected.stl"/>
       </geometry>
     </collision>
   </link>
@@ -416,7 +416,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/suspension_front_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/suspension_front_link.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.79216 0.81961 0.93333 1"/>
@@ -425,7 +425,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/suspension_front_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/suspension_front_link.stl"/>
       </geometry>
     </collision>
     <kinematic>0</kinematic>
@@ -447,7 +447,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/wheel_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/wheel_link.stl"/>
       </geometry>
       <material name="DarkGrey"/>
     </visual>
@@ -519,7 +519,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/suspension_front_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/suspension_front_link_reflected.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.79216 0.81961 0.93333 1"/>
@@ -528,7 +528,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/suspension_front_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/suspension_front_link_reflected.stl"/>
       </geometry>
     </collision>
     <kinematic>0</kinematic>
@@ -550,7 +550,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/wheel_link_reverted.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/wheel_link_reflected.stl"/>
       </geometry>
       <material name="DarkGrey"/>
     </visual>
@@ -622,7 +622,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/suspension_rear_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/suspension_rear_link.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.79216 0.81961 0.93333 1"/>
@@ -631,7 +631,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/suspension_rear_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/suspension_rear_link.stl"/>
       </geometry>
     </collision>
     <kinematic>0</kinematic>
@@ -653,7 +653,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/wheel_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/wheel_link.stl"/>
       </geometry>
       <material name="DarkGrey"/>
     </visual>
@@ -725,7 +725,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/suspension_rear_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/suspension_rear_link_reflected.stl"/>
       </geometry>
       <material name="">
         <color rgba="0.79216 0.81961 0.93333 1"/>
@@ -734,7 +734,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/suspension_rear_link.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/suspension_rear_link_reflected.stl"/>
       </geometry>
     </collision>
     <kinematic>0</kinematic>
@@ -756,7 +756,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://omni_base_description/meshes/wheels/wheel_link_reverted.stl" scale="1 1 1"/>
+        <mesh filename="package://omni_base_description/meshes/wheels/wheel_link_reflected.stl"/>
       </geometry>
       <material name="DarkGrey"/>
     </visual>
@@ -1663,7 +1663,7 @@
     <parent link="gripper_left_base_finger_left_link"/>
     <child link="gripper_left_inner_finger_left_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
+    <limit effort="0.1" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
     <mimic joint="gripper_left_finger_joint" multiplier="-8.28" offset="0.0"/>
   </joint>
   <!-- Outer finger -->
@@ -1694,7 +1694,7 @@
     <parent link="gripper_left_base_link"/>
     <child link="gripper_left_outer_finger_left_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
+    <limit effort="0.1" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
     <mimic joint="gripper_left_finger_joint" multiplier="-8.28" offset="0.0"/>
   </joint>
   <!-- Fingertip -->
@@ -1725,7 +1725,7 @@
     <parent link="gripper_left_inner_finger_left_link"/>
     <child link="gripper_left_fingertip_left_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.1396437934520663" upper="0.7476990515543709" velocity="2"/>
+    <limit effort="0.1" lower="-0.1396437934520663" upper="0.7476990515543709" velocity="2"/>
     <mimic joint="gripper_left_finger_joint" multiplier="8.28" offset="0.0"/>
   </joint>
   <!-- Screw link -->
@@ -1801,7 +1801,7 @@
     <parent link="gripper_left_base_finger_right_link"/>
     <child link="gripper_left_inner_finger_right_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
+    <limit effort="0.1" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
     <mimic joint="gripper_left_finger_joint" multiplier="-8.28" offset="0.0"/>
   </joint>
   <!-- Outer finger -->
@@ -1832,7 +1832,7 @@
     <parent link="gripper_left_base_link"/>
     <child link="gripper_left_outer_finger_right_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
+    <limit effort="0.1" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
     <mimic joint="gripper_left_finger_joint" multiplier="-8.28" offset="0.0"/>
   </joint>
   <!-- Fingertip -->
@@ -1863,7 +1863,7 @@
     <parent link="gripper_left_inner_finger_right_link"/>
     <child link="gripper_left_fingertip_right_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.1396437934520663" upper="0.7476990515543709" velocity="2"/>
+    <limit effort="0.1" lower="-0.1396437934520663" upper="0.7476990515543709" velocity="2"/>
     <mimic joint="gripper_left_finger_joint" multiplier="8.28" offset="0.0"/>
   </joint>
   <!-- Gazebo config -->
@@ -1889,13 +1889,13 @@
   </gazebo>
   <gazebo reference="gripper_left_fingertip_right_link">
     <material>Gazebo/White</material>
-    <mu1>2.7</mu1>
-    <mu2>2.7</mu2>
+    <mu1>0.9</mu1>
+    <mu2>0.9</mu2>
   </gazebo>
   <gazebo reference="gripper_left_fingertip_left_link">
     <material>Gazebo/White</material>
-    <mu1>2.7</mu1>
-    <mu2>2.7</mu2>
+    <mu1>0.9</mu1>
+    <mu2>0.9</mu2>
   </gazebo>
   <gazebo reference="gripper_left_base_link">
     <material>Gazebo/DarkGrey</material>
@@ -2374,7 +2374,7 @@
     <parent link="gripper_right_base_finger_left_link"/>
     <child link="gripper_right_inner_finger_left_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
+    <limit effort="0.1" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
     <mimic joint="gripper_right_finger_joint" multiplier="-8.28" offset="0.0"/>
   </joint>
   <!-- Outer finger -->
@@ -2405,7 +2405,7 @@
     <parent link="gripper_right_base_link"/>
     <child link="gripper_right_outer_finger_left_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
+    <limit effort="0.1" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
     <mimic joint="gripper_right_finger_joint" multiplier="-8.28" offset="0.0"/>
   </joint>
   <!-- Fingertip -->
@@ -2436,7 +2436,7 @@
     <parent link="gripper_right_inner_finger_left_link"/>
     <child link="gripper_right_fingertip_left_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.1396437934520663" upper="0.7476990515543709" velocity="2"/>
+    <limit effort="0.1" lower="-0.1396437934520663" upper="0.7476990515543709" velocity="2"/>
     <mimic joint="gripper_right_finger_joint" multiplier="8.28" offset="0.0"/>
   </joint>
   <!-- Screw link -->
@@ -2512,7 +2512,7 @@
     <parent link="gripper_right_base_finger_right_link"/>
     <child link="gripper_right_inner_finger_right_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
+    <limit effort="0.1" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
     <mimic joint="gripper_right_finger_joint" multiplier="-8.28" offset="0.0"/>
   </joint>
   <!-- Outer finger -->
@@ -2543,7 +2543,7 @@
     <parent link="gripper_right_base_link"/>
     <child link="gripper_right_outer_finger_right_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
+    <limit effort="0.1" lower="-0.7476990515543709" upper="0.1396437934520663" velocity="2"/>
     <mimic joint="gripper_right_finger_joint" multiplier="-8.28" offset="0.0"/>
   </joint>
   <!-- Fingertip -->
@@ -2574,7 +2574,7 @@
     <parent link="gripper_right_inner_finger_right_link"/>
     <child link="gripper_right_fingertip_right_link"/>
     <axis xyz="0 0 1"/>
-    <limit effort="40.0" lower="-0.1396437934520663" upper="0.7476990515543709" velocity="2"/>
+    <limit effort="0.1" lower="-0.1396437934520663" upper="0.7476990515543709" velocity="2"/>
     <mimic joint="gripper_right_finger_joint" multiplier="8.28" offset="0.0"/>
   </joint>
   <!-- Gazebo config -->
@@ -2600,13 +2600,13 @@
   </gazebo>
   <gazebo reference="gripper_right_fingertip_right_link">
     <material>Gazebo/White</material>
-    <mu1>2.7</mu1>
-    <mu2>2.7</mu2>
+    <mu1>0.9</mu1>
+    <mu2>0.9</mu2>
   </gazebo>
   <gazebo reference="gripper_right_fingertip_left_link">
     <material>Gazebo/White</material>
-    <mu1>2.7</mu1>
-    <mu2>2.7</mu2>
+    <mu1>0.9</mu1>
+    <mu2>0.9</mu2>
   </gazebo>
   <gazebo reference="gripper_right_base_link">
     <material>Gazebo/DarkGrey</material>
